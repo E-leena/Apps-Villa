@@ -1,0 +1,124 @@
+.head{
+    background-color: #ff6b81;
+    height: 100vh;
+    }
+    .right-row{
+        padding: 5% 0;
+    }
+
+    .features{
+        background-color: #f1f1f1;
+    } 
+
+     h5{
+        color: #ff6b81;
+    }
+   p{
+    color: rgb(165, 163, 163);
+   }
+
+   .icons{
+    background-color:#ff6b81 ;
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 30px;
+   }
+   .links{
+    color: #686666;
+    font-size: 22px;
+   }
+   .para{
+    color: #ff6b81;
+   }
+  .btn-2{
+    background-color: #ff6b81;
+    color: white;
+    border: none;
+  }
+   .box{
+    background-color:#ff6b81 ;
+    
+   } 
+   h2{
+    font-weight: 700;
+   }
+   .client{
+    margin: auto;
+   }
+
+   .items{
+color: rgb(134, 130, 130);
+   }
+   .aryo{
+    background-color: #f1f1f1;
+   }
+   
+   .collapsible {
+    background-color: #ff6b81 ;
+    border: none;
+    font-size: 15px;
+  }
+  .plus{
+    margin-left: 73%;
+  }
+  .dropdown{
+    border: none;
+    font-size: 15px;
+  }
+  .footer{
+    background-color: #081828;
+    margin: 0;
+    padding: 0;
+  }
+  .sub{
+    background-color: #ff6b81 ;
+    width: 20%;
+    }
+
+    ::placeholder{
+      color: #fff;
+      text-align: left;
+    }
+    .btn-3{
+      background-color: #ff6b81;
+      margin-left: 70rem;
+      /* border: none; */
+      /* margin-left: 75rem; */
+    }
+  
+      
+
+   @media only screen and (max-width: 400px) {
+    .mobile {
+      display: none;
+    }
+    .top-text{
+        text-align: center;
+        padding-top: 30%;
+    }
+    .cards{
+        margin: 8px;
+    }
+    .client{
+        display: flex;
+        flex-wrap: nowrap;
+        /* margin-right: 20%; */
+        margin: 0;
+    }
+    .plus{
+      margin: 8px;
+    }
+    .end{
+    justify-content: center;
+    }
+  }
+
+  
+
+
+
+
+
